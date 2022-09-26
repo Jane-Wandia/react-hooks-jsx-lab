@@ -3,7 +3,7 @@ import { image } from "../data/data";
 function About() {
   return <div id="about">About
     <h2>About Me</h2>
-    <p>My name is Calton, I am a software developer based in NAirobi</p>
+    <p>My name is jane, I am a software developer based in NAirobi</p>
     <img src={image} alt="I made this" />
   </div>;
 }
